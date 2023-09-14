@@ -1,5 +1,45 @@
-# HUUGO-CHATBOT
+# 📝 HUUGO CHATBOT - AI-driven Career Coaching Assistant
 
-This chatbot was built to assist with the [HUUGO Course](https://get.huugo.com/pages/program-features) content. It uses the OpenAI Completions API, Django and HTML/CSS for buidling a clean and functional web app. The fine-tuned model is 'Davinci' and it is fine-tuned with Huugo's course content so it can help/give feedback on any written assignments, clear any doubts, and give general career coaching advice.
+> A fine-tuned AI chatbot application in Django using OpenAI API, SQLite and Bootstrap.
 
-Link: https://huugo-chatbot-1fa67af559d8.herokuapp.com/
+## Table of Contents
+* [Setup](#setup)
+* [Usage](#usage)
+* [Technologies Used](#technologies-used)
+* [Project Status](#project-status)
+* [Contact](#contact)
+<!-- * [License](#license) -->
+
+
+## Setup
+Run the following commands in the terminal:-
+- git clone https://github.com/Priii29/HUUGO-CHATBOT.git
+- cd HUUGO-CHATBOT
+- `pip install -r requirements.txt`
+
+## Usage
+Run the following command in the terminal from the Project Directory:-
+- python manage.py
+
+
+# Index File
+![image]()
+
+
+# Todo Example
+![image]()
+
+
+
+
+## Technologies Used
+- HTML/CSS (Bootstrap 4.3.1)
+- Python 3.10.5 (Django)
+- SQL (SQLite) ????
+
+## Project Status
+The minimum viable product is *complete*
+
+
+## Contact
+Priyanshi Ramani: pramani@uwaterloo.ca
