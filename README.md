@@ -22,14 +22,17 @@ Run the following command in the terminal from the Project Directory:-
 - python manage.py
 
 
-# Index File
-![image]()
+# Main Page
+![image](MAINPAGE2.png)
+![image](MAINPAGE.png)
 
 
-# Todo Example
-![image]()
+# Registration Page
+![image](REGISTRATION.png)
 
 
+# Login Page
+![image](LOGIN.png)
 
 
 ## Technologies Used
