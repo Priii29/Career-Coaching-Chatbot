@@ -1,4 +1,4 @@
-# 📝 HUUGO CHATBOT: AI-driven Career Coaching Assistant 
+# 📝 HUUGO CHATBOT: AI-driven Career Coach
 
 > A fine-tuned AI chatbot application in Django using OpenAI API, SQLite and Bootstrap.
 
