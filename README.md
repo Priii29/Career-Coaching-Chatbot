@@ -35,7 +35,7 @@ Run the following command in the terminal from the Project Directory:-
 ## Technologies Used
 - HTML/CSS (Bootstrap 4.3.1)
 - Python 3.10.5 (Django)
-- SQL (SQLite) ????
+- SQL (SQLite)
 
 ## Project Status
 The minimum viable product is *complete*
