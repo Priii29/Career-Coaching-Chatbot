@@ -23,16 +23,16 @@ Run the following command in the terminal from the Project Directory:-
 
 
 # Main Page
-![image](MAINPAGE2.png)
-![image](MAINPAGE.png)
+![image](images/MAINPAGE2.png)
+![image](images/MAINPAGE.png)
 
 
 # Registration Page
-![image](REGISTRATION.png)
+![image](images/REGISTRATION.png)
 
 
 # Login Page
-![image](LOGIN.png)
+![image](images/LOGIN.png)
 
 
 ## Technologies Used
